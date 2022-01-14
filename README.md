@@ -1,6 +1,6 @@
 deb-nginx-xymon
 process to run xymon on nginx
-apt install nginx xymon apache2-utils fcgiwrap
+apt install nginx xymon apache2-utils fcgiwrap rename rrdtool hobbit-plugins ethtool fping
 https://www.nginx.com/resources/wiki/start/topics/examples/fcgiwrap/
 follow the guide
 https://blog.feld.me/posts/2014/11/setting-up-xymon-with-nginx/
